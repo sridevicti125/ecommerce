@@ -4,7 +4,7 @@
     font-family: 'Poppins', sans-serif;
 }
 #hospital{
-    background:linear-gradient(rgba(0,0,0,0.5),#009688)url();
+    background:linear-gradient(rgba(0,0,0,0.5),#009688)url(iphone.img\img2.jpg);
     background-size: cover;
     background-position: center;
     height: 100vh;
