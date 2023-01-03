@@ -41,7 +41,7 @@
     margin: 0 10px;
     padding: 12px 0;
     color: black;
-    border: .5px solid #fff;
+    border: .5px solid black;
     position: relative;
     z-index: 1;
     transition: color .5s ease;
@@ -52,7 +52,7 @@
     position: absolute;
     top: 0;
     left: 0;
-    background: #fff;
+    background: lightblue;
     z-index: -1;
     transition: .5s ease;
 }
